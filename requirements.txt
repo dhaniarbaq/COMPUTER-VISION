@@ -6,3 +6,8 @@ seaborn
 numpy
 plotly
 nltk
+streamlit
+torch
+torchvision.transforms
+PIL
+numpy
